@@ -1,0 +1,2 @@
+use data and applications over the internet,
+Cloud Computing is a technology that allows you to store and access data and applications over the internet instead of using your computer’s hard drive or a local server.
